@@ -1,0 +1,5 @@
+Q1: Why might be consider using git?
+
+Answer: I think git is a very powerful version control tool that allows multiple collaborators to effectively 
+manage their contributions to a project. Git allows us to keep track of all the changes that were made, merge changes
+easily and allows very easy reverting options in case something goes wrong with the code.
