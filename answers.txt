@@ -3,3 +3,9 @@ Q1: Why might be consider using git?
 Answer: I think git is a very powerful version control tool that allows multiple collaborators to effectively 
 manage their contributions to a project. Git allows us to keep track of all the changes that were made, merge changes
 easily and allows very easy reverting options in case something goes wrong with the code.
+
+Q2: What field could data science be applied to? Give and Example and how it might help
+
+Answer: Data science could be applied to a lot of fields. Fields such as politics hugely benefit from data science
+as when running polls where millions of people respond, it can be very difficult to manually sort through the
+reponses. Here data science can help gain valuable insights into the information that was collected via the polls.
