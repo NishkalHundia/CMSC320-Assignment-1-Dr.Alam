@@ -14,3 +14,8 @@ Q3: What is the difference between merging and rebasing?
 
 Answer: Git rebase creates a new set of commits applied on top of the target branch, while git merge creates a 
 new merge commit that combines the changes from both brances.
+
+Q4: What skills do you hope to improve during this course?
+
+Answer: I hope to improve my data analytics and preprocessing skills along with data manipulation and handling.
+I want to be able to perform a whole lot of analysis when given a huge set of data effectively.
